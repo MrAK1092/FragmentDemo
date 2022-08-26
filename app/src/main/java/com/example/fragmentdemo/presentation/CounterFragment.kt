@@ -1,11 +1,10 @@
-package com.example.fragmentdemo
+package com.example.fragmentdemo.presentation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
 import by.kirich1409.viewbindingdelegate.viewBinding
+import com.example.fragmentdemo.R
 import com.example.fragmentdemo.databinding.FragmentCounterBinding
 import com.example.fragmentdemo.navigation.Navigator
 import com.example.fragmentdemo.navigation.NavigatorImpl

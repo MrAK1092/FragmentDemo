@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#ffffc0cb"
-    tools:context=".KittyFragment">
+    tools:context=".presentation.KittyFragment">
 
     <ImageButton
         android:id="@+id/imageButton"

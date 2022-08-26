@@ -1,7 +1,9 @@
-package com.example.fragmentdemo
+package com.example.fragmentdemo.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.fragmentdemo.R
+import com.example.fragmentdemo.di.scope.FragmentScope
 import com.example.fragmentdemo.navigation.Navigator
 import com.example.fragmentdemo.navigation.NavigatorImpl
 
